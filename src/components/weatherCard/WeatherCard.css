@@ -1,0 +1,22 @@
+.forecast .weatherCard {
+    flex: 1;
+    min-width: 200px;
+    border: 2px solid rgb(98, 96, 96);
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 10px;
+  }
+  
+  .forecast .weatherCard h2 {
+    text-align: center;
+  }
+  
+  .forecast .weatherCard img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .forecast .weatherCard p {
+    font-size: 1.3rem;
+    margin: 0.5rem 0;
+  }

@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: rgb(54, 53, 53);
+    color: white;
+  }
+  
+  .header p {
+    font-size: 1.5rem;
+  }
+  
+  .header ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .header ul li {
+    list-style-type: none;
+    font-size: 1.2rem;
+  }
+  
+  .header ul li a {
+    color: white;
+  }
+  

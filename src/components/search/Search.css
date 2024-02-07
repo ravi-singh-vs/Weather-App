@@ -1,0 +1,28 @@
+#mainSearchForm {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #mainSearchForm input[type="text"] {
+    width: 100%;
+    max-width: 500px;
+    padding: 1rem;
+    font-size: 1rem;
+    outline: none;
+    border-radius: 10px;
+    border: none;
+    margin-right: 10px;
+  }
+  
+  #mainSearchForm button {
+    padding: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(54, 53, 53);
+    border-radius: 10px;
+    border: none;
+  }
+  

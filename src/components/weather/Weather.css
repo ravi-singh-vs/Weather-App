@@ -1,0 +1,26 @@
+.weather {
+    height: 82vh;
+  }
+  
+  .todayWeather {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    border: 2px solid rgb(98, 96, 96);
+  }
+  
+  .todayWeather p {
+    margin: 0 2rem;
+    font-size: 1.3rem;
+  }
+  
+  .forecast {
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
